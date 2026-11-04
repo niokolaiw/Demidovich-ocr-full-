@@ -2,6 +2,8 @@
 
 **Б. П. Демидович. «Сборник задач и упражнений по математическому анализу»** — электронная версия с полностью распознанным текстом, формулами и книжной навигацией.
 
+**[Страница книги](https://niokolaiw.github.io/Demidovich-ocr-full-/)** · **[English overview](https://niokolaiw.github.io/Demidovich-ocr-full-/en/)**
+
 **[Скачать PDF — 622 страницы, около 11 МБ](https://github.com/niokolaiw/Demidovich-ocr-full-/raw/refs/heads/main/demidovich-mathematical-analysis-ocr.pdf)** · [Открыть PDF на GitHub](demidovich-mathematical-analysis-ocr.pdf) · [Версии](https://github.com/niokolaiw/Demidovich-ocr-full-/releases)
 
 ## Что внутри
