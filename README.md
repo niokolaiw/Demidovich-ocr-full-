@@ -29,6 +29,7 @@ PDF собран из файлов `checked` проекта распознава
 
 Контрольная сумма файла приведена в [SHA256SUMS](SHA256SUMS). Если обнаружена ошибка, укажите в [Issues](https://github.com/niokolaiw/Demidovich-ocr-full-/issues) книжную страницу, номер задачи и предполагаемое исправление.
 
+ВНИМАНИЕ! Я не являюсь автором оригинальной книги и не претендую на её авторство. Это оцифрованная и заново свёрстанная версия книги Б. П. Демидовича «Сборник задач и упражнений по математическому анализу». Все права на оригинальное произведение принадлежат соответствующим правообладателям.
 ## English
 
 **B. P. Demidovich — Problems and Exercises in Mathematical Analysis.** Russian calculus problem book in a searchable, tagged PDF with selectable text and mathematical symbols, restored typesetting, illustrations, answers, bookmarks and a linked table of contents.
@@ -37,4 +38,5 @@ This edition contains **622 PDF pages**, including four introductory contents pa
 
 Topics include real analysis, limits, derivatives, integrals, series, multivariable calculus, multiple integrals and line integrals. OCR ambiguities may remain; check uncertain expressions against the printed source.
 
+WARNIGM! I am not the author of the original book and do not claim authorship. This is a digitized and re-typeset version of B. P. Demidovich’s Problems and Exercises in Mathematical Analysis. All rights to the original work belong to their respective holders.
 **[Download the searchable Demidovich PDF](https://github.com/niokolaiw/Demidovich-ocr-full-/raw/refs/heads/main/demidovich-mathematical-analysis-ocr.pdf)**
