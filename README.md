@@ -1,6 +1,6 @@
 # Демидович — сборник задач по математическому анализу · OCR PDF
 
-**Б. П. Демидович. «Сборник задач и упражнений по математическому анализу»** — электронная версия с распознанным текстом, заново набранными формулами и книжной навигацией.
+**Б. П. Демидович. «Сборник задач и упражнений по математическому анализу»** — электронная версия с полностью распознанным текстом, формулами и книжной навигацией.
 
 **[Скачать PDF — 622 страницы, около 11 МБ](https://github.com/niokolaiw/Demidovich-ocr-full-/raw/refs/heads/main/demidovich-mathematical-analysis-ocr.pdf)** · [Открыть PDF на GitHub](demidovich-mathematical-analysis-ocr.pdf) · [Версии](https://github.com/niokolaiw/Demidovich-ocr-full-/releases)
 
